@@ -3,4 +3,5 @@ In this data scraping project, I make use of Spotipy to scrape data on an artist
 
 Here's a preview of the project on Python.
 
-![JB_Snip](https://github.com/Strano1/A-Comparative-Analysis-of-Jon-Bellion-s-Albums/assets/124494476/af146c28-40aa-47c4-88fa-b8b8a4855443)
+![JB_Snip](https://github.com/Strano1/A-Comparative-Analysis-of-Jon-Bellion-s-Albums/assets/124494476/827e3b26-e375-4168-8f3c-bbce0ee52c55)
+
